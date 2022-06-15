@@ -1,0 +1,21 @@
+{
+    "name": "zhoul/zuwechat",
+    "description": "ce",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhoul\\Zuwechat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhoulu",
+            "email": "847285370@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
